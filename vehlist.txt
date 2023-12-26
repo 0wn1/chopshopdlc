@@ -1,0 +1,33 @@
+	'aleutian', -- Aleutian | SUV | Vapid
+	'asterope2', -- Asterope GZ | SEDAN| Karin
+	'baller8', -- Baller ST-D | SUV | GALLIVAN
+	'benson2', -- Benson (Cluckin' Bell) | COMMERCIAL | Vapid
+	'boattrailer2', -- Boat Trailer | UTILITY
+	'boattrailer3', -- Boat Trailer | UTILITY
+	'boxville6', -- Boxville (LSDS) | VAN | Brute
+	'cavalcade3', -- Cavalcade XL | SUV | ALBANY
+	'dominator9', -- Dominator GT | MUSCLE | Vapid
+	'dorado', -- Dorado | SUV | Bravado
+	'drifteuros', -- Euros | SPORT | ANNIS
+	'driftfr36', -- FR36 | COUPE | Fathom
+	'driftfuto', -- Futo GTX | SPORT | Karin
+	'driftjester', -- Jester RR | SPORT | Dinka
+	'driftremus', -- Remus | SPORT | Annis
+	'drifttampa', -- Drift Tampa | SPORT | Declasse
+	'driftyosemite', -- Drift Yosemite | MUSCLE | Declasse
+	'driftzr350', -- ZR350 | SPORT | Annis
+	'fr36', -- FR36 | COUPE | Fathom
+	'freight2', -- Freight Train | RAIL
+	'impaler5', -- Impaler SZ | SEDAN | Declasse
+	'impaler6', -- Impaler LX | MUSCLE | Declasse
+	'phantom4', -- Phantom | COMMERCIAL | JoBuilt
+	'polgauntlet', -- Gauntlet Interceptor | EMERGENCY | Bravado
+	'police5', -- Stanier LE Cruiser | EMERGENCY | Vapid
+	'terminus', -- Terminus | OFF_ROAD | Canis
+	'towtruck3', -- Tow Truck | UTILITY
+	'towtruck4', -- Tow Truck | UTILITY
+	'trailers5', -- Trailer | UTILITY
+	'turismo3', -- Turismo Omaggio | SUPER | Grotti
+	'tvtrailer2', -- Trailer | UTILITY
+	'vigero3', -- Vigero ZX Convertible | MUSCLE | Declasse
+	'vivanite' -- Vivanite | SUV | KARIN
