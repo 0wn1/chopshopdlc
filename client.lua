@@ -65,7 +65,7 @@ local EntitySets = {
             vec3(858.0, -2275.0, -50.0)
         },
         ["Entities"] = {
-            3347615165 -- 0xC7888DBD | v_ilev_garageliftdoor | 827.48, -2204.76, -48.39
+            'entity_set_int1_m232_elevator_doors' -- 3347615165 -- 0xC7888DBD | v_ilev_garageliftdoor | 827.48, -2204.76, -48.39
         }
     }
 }
